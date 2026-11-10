@@ -1,0 +1,19 @@
+# Środowisko wirtualne Pythona
+venv/
+ENV/
+env/
+
+# Pliki tymczasowe i skompilowane Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Skompilowane pliki aplikacji (PyInstaller)
+build/
+dist/
+*.spec
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
